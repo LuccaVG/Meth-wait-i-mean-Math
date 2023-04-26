@@ -1,0 +1,15 @@
+C:\Users\54297548895\Desktop\Trab.calculus\bin\Debug\net7.0\Trab.calculus.exe
+C:\Users\54297548895\Desktop\Trab.calculus\bin\Debug\net7.0\Trab.calculus.deps.json
+C:\Users\54297548895\Desktop\Trab.calculus\bin\Debug\net7.0\Trab.calculus.runtimeconfig.json
+C:\Users\54297548895\Desktop\Trab.calculus\bin\Debug\net7.0\Trab.calculus.dll
+C:\Users\54297548895\Desktop\Trab.calculus\bin\Debug\net7.0\Trab.calculus.pdb
+C:\Users\54297548895\Desktop\Trab.calculus\obj\Debug\net7.0\Trab.calculus.csproj.AssemblyReference.cache
+C:\Users\54297548895\Desktop\Trab.calculus\obj\Debug\net7.0\Trab.calculus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54297548895\Desktop\Trab.calculus\obj\Debug\net7.0\Trab.calculus.AssemblyInfoInputs.cache
+C:\Users\54297548895\Desktop\Trab.calculus\obj\Debug\net7.0\Trab.calculus.AssemblyInfo.cs
+C:\Users\54297548895\Desktop\Trab.calculus\obj\Debug\net7.0\Trab.calculus.csproj.CoreCompileInputs.cache
+C:\Users\54297548895\Desktop\Trab.calculus\obj\Debug\net7.0\Trab.calculus.dll
+C:\Users\54297548895\Desktop\Trab.calculus\obj\Debug\net7.0\refint\Trab.calculus.dll
+C:\Users\54297548895\Desktop\Trab.calculus\obj\Debug\net7.0\Trab.calculus.pdb
+C:\Users\54297548895\Desktop\Trab.calculus\obj\Debug\net7.0\Trab.calculus.genruntimeconfig.cache
+C:\Users\54297548895\Desktop\Trab.calculus\obj\Debug\net7.0\ref\Trab.calculus.dll
